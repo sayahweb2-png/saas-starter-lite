@@ -20,7 +20,7 @@
 
 ## What's in the Pro Version
 
-| Feature | Lite (Free) | Starter ($149) | Pro ($249) | Enterprise ($399) |
+| Feature | Lite (Free) | Starter ($149) | Pro ($249) ⭐ | Enterprise ($399) |
 |---------|:-----------:|:--------------:|:----------:|:-----------------:|
 | Auth (JWT, OAuth) | Yes | Yes | Yes | Yes |
 | Stripe Payments | -- | Yes | Yes | Yes |
@@ -35,7 +35,17 @@
 | Audit Logging | -- | -- | -- | Yes |
 | API Keys | -- | -- | -- | Yes |
 
-[**Get the Full Version ->**](https://demo.cloudrix.io)
+### Get the Full Version
+
+| Tier | Price | Best For | Get It |
+|------|-------|----------|--------|
+| **Starter** | $149 | Solo devs, MVPs | [Buy Starter →](https://cloudrix-saas.lemonsqueezy.com/checkout/buy/5d588d2f-2150-4bc1-8622-12038fd98cab) |
+| **Pro** ⭐ | $249 | Teams, agencies | [Buy Pro →](https://cloudrix-saas.lemonsqueezy.com/checkout/buy/7d5158ae-d76c-4427-a26e-5b206f0700c7) |
+| **Enterprise** | $399 | Enterprise teams | [Buy Enterprise →](https://cloudrix-saas.lemonsqueezy.com/checkout/buy/8a731ead-fd71-4c3e-a9bb-07ed213055c0) |
+
+> All tiers include lifetime access, free updates, and a 14-day refund guarantee.
+
+[View Demo](https://demo.cloudrix.io) · [Get Pro — $249 →](https://cloudrix-saas.lemonsqueezy.com/checkout/buy/7d5158ae-d76c-4427-a26e-5b206f0700c7)
 
 ## Quick Start
 
@@ -107,7 +117,7 @@ This lite version covers authentication basics. The **full SaaS Starter** adds e
 - **Infrastructure** -- Docker Compose (full stack), AWS Terraform, GitHub Actions CI/CD
 - **Security** -- 2FA, magic links, audit logging, API keys, GDPR tools
 
-[**Save 2-6 weeks of setup. Get the full boilerplate ->**](https://demo.cloudrix.io)
+[**Save 2-6 weeks of setup. Get the full boilerplate ->**](https://demo.cloudrix.io) · [Get Pro — $249 →](https://cloudrix-saas.lemonsqueezy.com/checkout/buy/7d5158ae-d76c-4427-a26e-5b206f0700c7)
 
 ## License
 
